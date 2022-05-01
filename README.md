@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/wheein/wheein/">
+    <img src="https://komarev.com/ghpvc/?username=wheein" alt="wheein" />
+  </a>
+  <a href="http://twitter.com/wheein">
+    <img height="20" src="https://img.shields.io/twitter/follow/wheein?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/wheein">
+    <img height="20" src="https://img.shields.io/github/followers/wheein?label=follow&logo=github&style=flat" />
+  </a>
+</p>
